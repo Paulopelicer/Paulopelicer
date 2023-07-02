@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Paulo Cesar Hermano Pelicer</h1>
+<h1 align="center">Olá 👋, sou Paulo Cesar Hermano Pelicer e estou me aprofundando nas linguagens Python e SQL </h1>
 <h3 align="center">A passionate data enginner student from Brazil</h3>
 
 <h3 align="left">Connect with me:</h3>
