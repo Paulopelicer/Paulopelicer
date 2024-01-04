@@ -12,6 +12,8 @@
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
   <img align="center" alt="Paulo-SQL" height="30" width="40"
 src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg">
+  <img align="center" alt="Paulo-Docker" height="30" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
