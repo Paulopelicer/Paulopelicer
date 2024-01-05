@@ -6,7 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Paulopelicer&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
   </div>
 
-Languages and Tools:
+Linguagens e Ferramentas:
 <div style="display: inline_block"><br/>
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=yellow"/>
   <img align="center" alt="numpy" src="https://img.shields.io/badge/NumPy-4B8BBE?style=for-the-badge&logo=numpy&logoColor=white"/>
@@ -19,7 +19,8 @@ Languages and Tools:
   <img align="center" alt="powerbi" src = "https://img.shields.io/badge/PowerBI-FF9900?style=for-the-badge&logo=PowerBI&logoColor=white"/>
   </div>
   <img align="center" alt="docker" src="https://img.shields.io/badge/Docker-306998?style=for-the-badge&logo=Docker&logoColor=white"/>
- ## Minhas Certificações
+ 
+ Minhas Certificações:
   <div style="display: inline_block">
     <img align="center" alt="AZ-900" height="80" width="90" src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png">
     <img align="center" alt="DP-900" height="80" width="90" src="https://images.credly.com/size/340x340/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png">
