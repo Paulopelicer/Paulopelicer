@@ -258,6 +258,59 @@ UNIABC
 - FIAP — Database Modeling
 - FIAP — Infrastructure Database
 
+### Microsoft Azure — Credenciais Verificáveis
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://www.credly.com/badges/215db003-abfd-4519-829c-2828d52e583a/linked_in_profile">
+        <img
+          src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/twitter_thumb_201604_image.png"
+          alt="Microsoft Certified: Azure Fundamentals"
+          width="210"
+        />
+      </a>
+      <br/>
+      <strong>Microsoft Certified: Azure Fundamentals</strong>
+      <br/>
+      <sub>AZ-900 • Microsoft Azure</sub>
+      <br/><br/>
+      <a href="https://www.credly.com/badges/215db003-abfd-4519-829c-2828d52e583a/linked_in_profile">
+        <img
+          src="https://img.shields.io/badge/Validar_credencial-Credly-0F172A?style=flat-square&logo=credly&logoColor=14B8A6"
+          alt="Validar credencial AZ-900 no Credly"
+        />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://www.credly.com/badges/c85cce4b-bb85-4be0-86f4-d8d0f6418fa1/linked_in_profile">
+        <img
+          src="https://datatwin.be/images/microsoft-certified-azure-data-fundamentals.png"
+          alt="Microsoft Certified: Azure Data Fundamentals"
+          width="210"
+        />
+      </a>
+      <br/>
+      <strong>Microsoft Certified: Azure Data Fundamentals</strong>
+      <br/>
+      <sub>DP-900 • Microsoft Azure</sub>
+      <br/><br/>
+      <a href="https://www.credly.com/badges/c85cce4b-bb85-4be0-86f4-d8d0f6418fa1/linked_in_profile">
+        <img
+          src="https://img.shields.io/badge/Validar_credencial-Credly-0F172A?style=flat-square&logo=credly&logoColor=14B8A6"
+          alt="Validar credencial DP-900 no Credly"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<sub>As badges são clicáveis e direcionam para a validação das credenciais.</sub>
+
+</div>
+
 ---
 
 ## GitHub Analytics
