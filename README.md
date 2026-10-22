@@ -29,7 +29,7 @@
 ## Sobre Mim
 
 <p align="justify">
-Sou Paulo, profissional de <strong>Data & Analytics</strong>, atuando na interseção entre Engenharia de Dados, Análise de Dados, Business Intelligence e Inteligência Artificial.
+Sou Paulo, profissional de <strong>Data & AI Engineer</strong>, atuando na interseção entre Engenharia de Dados, Análise de Dados, Business Intelligence e Inteligência Artificial.
 </p>
 
 <p align="justify">
